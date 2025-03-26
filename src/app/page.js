@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className=" text-3xl">
+    <div className=" text-3xl bg-red-400">
       Next js App
       <Button
         variant={'outkine'}
